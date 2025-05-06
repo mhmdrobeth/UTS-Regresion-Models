@@ -1,6 +1,6 @@
 ---
 title: "UTS Regression Models"
-author: "Muhammad Robert Suprayitno - A3202300023"
+author: "Muhammad Robeth Suprayitno - A3202300023"
 date: "`r Sys.Date()`"
 output: 
   html_document:
